@@ -17,7 +17,7 @@ This is The Portfolio of All work Done in Game Changers Program
 - Crazy Kadda
    - Designer
 
-**Michanics**
+**Mechanics**
 - ME-O
   - Designer 
   - Programer 
