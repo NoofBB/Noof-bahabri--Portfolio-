@@ -19,7 +19,6 @@ This is The Portfolio of All work Done in Game Changers Program
 
 **Mechanics**
 - ME-O
-  - Designer 
   - Programer 
 - Love and Hate
   - Designer 
